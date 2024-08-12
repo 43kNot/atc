@@ -1,0 +1,36 @@
+.card {
+  width: 385px;
+  border: 1px solid #ddd;
+  margin: 11px 5px 10px 4px;
+  padding: 5px 5px 10px 15px;
+  box-shadow: 9px 10px 3px #eee;
+}
+
+.info {
+  width: 353px;
+  border: 1px solid #ddd;
+  margin: 11px 10px 5px 0px;
+  padding: 5px 5px 10px 15px;
+}
+
+.fact {
+  font-style: italic;
+}
+
+ul {
+  margin-left: -40px;
+}
+li {
+  list-style: none;
+  font-size: 15px;
+}
+span {
+  font-weight: bold;
+  font-size: 15px;
+  font-family: "georgia, serif";
+}
+
+p {
+  font-size: 15px;
+  font-family: "georgia, serif";
+}
